@@ -1,0 +1,22 @@
+{
+  "name": "shadowizardy",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designcourse/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Gary Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designcourse/shadowizard/issues"
+  },
+  "homepage": "https://github.com/designcourse/shadowizard#readme"
+}
